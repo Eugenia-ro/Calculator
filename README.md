@@ -5,9 +5,9 @@
 ## ССылки на проект
 
 - Проект доступеен по ссылке:
-  [ссылка на калькулятор](https://github.io)
+  [ссылка на калькулятор](https://eugenia-ro.github.io/Calculator/)
 
-- [Ссылка](https://github.io) на Github-репозиторий
+- [Ссылка](https://github.com/Eugenia-ro/Calculator) на Github-репозиторий
 
 Можно еще вот так [ссылка](https://github.io)
 
